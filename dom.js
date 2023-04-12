@@ -22,11 +22,43 @@
 
 // const newClassToDiv = document.getElementsByTagName("div")[0].setAttribute("class", "eloe")
 
-//Zad6
+//zad 6
+// const el = document.querySelectorAll("li")
+// for(let i = 0; i < el.length ;i++) {
+//   console.log(el[i].getAttribute("class"))
+//   if(el[i].getAttribute("class") === "active") {
+//     el[i].classList.remove("active")
+//   }
+// }
 
-//const myUl = document.getElementsByTagName("ul li")
-//myUl[0].setAttribute("class", "elo")
+//zad7
+// const ebutton = document.getElementsByTagName("button")
+// for(let i = 0; i < ebutton.length ;i++) {
+//   ebutton[i].innerHTML = "Przycisk!"
+// }
 
-//const elWithAct = document.querySelector("ul")
+//zad8
 
+// const einput = document.getElementsByTagName("label")
+// for(let i = 0; i < einput.length ;i++) {
+//   einput[i].innerHTML = ""
+//}
 
+//zad 9
+
+// const newElement = document.createElement("li")
+// const myul = document.getElementsByTagName("ul")
+// for(let i = 0; i < myul.length ;i++){
+//   myul[i].appendChild(newElement)
+// }
+
+//Zad 10
+
+//const myBody = document.getElementsByTagName("body")[0].style.backgroundColor="blue"
+
+//Zad 11
+
+// const newElement = document.createElement("div")
+// newElement.setAttribute("class", "new-id")
+// const myHeader = document.getElementsByTagName("header")
+// myHeader[0].appendChild(newElement)
