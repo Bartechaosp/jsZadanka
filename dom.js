@@ -69,3 +69,12 @@
 //const myImg = document.getElementsByTagName("img")
 //myImg[0].dataset.src="elo"
 //myImg[0].removeAttribute("src")
+
+// zad 14
+//const myp = document.getElementsByTagName("p")
+//for (let i = 0; i < myp.length ;i++){
+  
+  //if (i % 2 === 0) {
+   // myp[i].style.color="green"
+  //}
+//}
