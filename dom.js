@@ -78,3 +78,6 @@
    // myp[i].style.color="green"
   //}
 //}
+//zad 15
+//const myLi = document.querySelectorAll('ul li')
+//myLi[2].setAttribute("class","elo")
