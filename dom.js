@@ -62,3 +62,5 @@
 // newElement.setAttribute("class", "new-id")
 // const myHeader = document.getElementsByTagName("header")
 // myHeader[0].appendChild(newElement)
+//zad 12
+//const myH1 = document.getElementsByTagName("p")[1].style.color="green"
