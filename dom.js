@@ -64,3 +64,8 @@
 // myHeader[0].appendChild(newElement)
 //zad 12
 //const myH1 = document.getElementsByTagName("p")[1].style.color="green"
+
+//zad 13
+//const myImg = document.getElementsByTagName("img")
+//myImg[0].dataset.src="elo"
+//myImg[0].removeAttribute("src")
